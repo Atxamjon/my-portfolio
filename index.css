@@ -159,6 +159,7 @@ a:hover {
   gap: 50px;
   justify-content: center;
   margin-left: 67px;
+  cursor: pointer;
 }
 .Partners_wrapper {
   margin-bottom: 75px;
